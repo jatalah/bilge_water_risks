@@ -4,7 +4,7 @@ Lauren M. Fletcher<sup>1*</sup>, Javier Atalah<sup>1</sup> and Grant A. Hopkins<
 
 <sup>1*</sup>Cawthron Institute, Private Bag 2, Nelson 7010, New Zealand
 
-<sup>*Email: lauren.fletcher@cawthron.org.nz </a>
+*Email: lauren.fletcher@cawthron.org.nz </a>
 
 <h3>Abstract</h3>
 
