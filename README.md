@@ -1,7 +1,11 @@
 <h1>Biosecurity risk associated with bilge water discharges from small vessels: an evaluation of vessel systems and operator behaviours</h1>
 
-Lauren M. Fletcher, Javier Atalah and Grant A. Hopkins  
-Cawthron Institute, Nelson, New Zealand
+Lauren M. Fletcher<sup>1*</sup>, Javier Atalah<sup>1</sup> and Grant A. Hopkins<sup>1</sup> 
+
+<sup>1*</sup>Cawthron Institute, Private Bag 2, Nelson 7010, New Zealand
+
+<sup>*</sup>Lauren Fletcher, Cawthron Institute, Private Bag 2, Nelson 7010, New Zealand  
+Email: lauren.fletcher@cawthron.org.nz </a>
 
 <h3>Abstract</h3>
 
